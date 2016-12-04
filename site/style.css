@@ -1,0 +1,53 @@
+* { 
+font-family: helvetica; 
+padding: 0;
+margin: 1px;
+}
+
+h1 { 
+width: 150px;
+color: white;
+font-size: 50px;
+font-style: italic;
+text-align: center; 
+display: block;
+background-color: black;
+border: 1px solid red;
+}
+
+body ul{ 
+list-style: none;
+ }
+a:link, a:visited { 
+ text-decoration: none;
+  background-color: white;
+  border: 1px solid red;
+  color: black;
+  display: block;
+  width: 150px;
+  text-align: center;
+
+ }
+
+a:hover, a:active {
+  background-color: black;
+  color: white;
+}
+
+h3 { 
+color: white;
+font-size: 20px;
+text-align: center; 
+width: 150px;
+display: block;
+background-color: black;
+border: 1px solid red;
+ }
+
+ p{ 
+padding: 5px;
+color: black;
+background-color: red;
+font-style: italic;
+border: 1px solid black;
+display: inline;}
